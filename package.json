@@ -1,0 +1,19 @@
+{
+  "name": "discordwebhook",
+  "version": "1.0.0",
+  "description": "For send discord webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yamami1221/DiscordWebhook.git"
+  },
+  "author": "Yamami1221",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yamami1221/DiscordWebhook/issues"
+  },
+  "homepage": "https://github.com/Yamami1221/DiscordWebhook#readme"
+}
