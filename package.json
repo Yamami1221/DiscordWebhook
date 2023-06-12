@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Yamami1221/DiscordWebhook/issues"
   },
-  "homepage": "https://github.com/Yamami1221/DiscordWebhook#readme"
+  "homepage": "https://github.com/Yamami1221/DiscordWebhook#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0"
+  }
 }
